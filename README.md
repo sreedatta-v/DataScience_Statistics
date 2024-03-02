@@ -12,7 +12,8 @@ Table of Contents:
 -> Probability  
 -> Distribution  
 -> Central Limit theorem  
--> Z Score  
+-> Z Score
+-> Transformation of Variables in Dataset
   
 ## Inferential Statistics 
 -> Confidence Intervals  
